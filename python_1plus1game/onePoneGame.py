@@ -95,4 +95,3 @@ def terminal_score(a,b,c,d):
         return((100,1))
     elif(c+d==0):
         return((100,0))
-print(terminal_score(1,1,1,1))
